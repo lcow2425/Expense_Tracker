@@ -25,8 +25,8 @@ pip3 install tkcalendar
 ## Installation and Running the Application
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/lcow2425/Expense_Tracker.git
+   cd Expense_Tracker
    ```
 
 2. **Run the Application:**
